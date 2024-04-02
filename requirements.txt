@@ -1,5 +1,5 @@
 pip install yfinance
-
+pip install streamlit
 
 
 streamlit==1.8.0
